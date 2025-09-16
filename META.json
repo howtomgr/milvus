@@ -1,0 +1,62 @@
+{
+  "category": "miscellaneous",
+  "created_date": "2025-09-15T22:48:58.197113",
+  "default_ports": [
+    80,
+    443,
+    9091,
+    19530
+  ],
+  "dependencies": [],
+  "description": "milvus is a free and open-source vector database for AI applications. Milvus is designed to store, index, and search embedding vectors for AI applications, serving as an open-source alternative to Pinecone or Weaviate cloud",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/miscellaneous/milvus",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/miscellaneous/milvus",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:58.197141",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "milvus",
+  "repository_url": "https://github.com/howtomgr/milvus",
+  "spec_version": "2.0",
+  "subcategory": "miscellaneous",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "miscellaneous",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "milvus Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/miscellaneous/milvus"
+}
